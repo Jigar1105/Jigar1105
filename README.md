@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jigar Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 # 💫 About Me:
+<br>
 🔭 I’m currently working on Skill Swap Platform Project<br>🌱 I’m currently learning Java
 
 
